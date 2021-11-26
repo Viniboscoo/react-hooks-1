@@ -9,7 +9,8 @@ const Conteudo01 = props => {
 
     return (
         <div>
-            <h1>INICIAL</h1>
+          
+          
             <h3> <img src={ibagem}height="500px" /> </h3>
         </div>
     )

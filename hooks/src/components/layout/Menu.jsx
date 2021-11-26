@@ -10,16 +10,16 @@ const Menu = props => (
                     <Link to="/">Home</Link>
                 </li>
                 <li> 
-                    <Link to="/conteudo01/123">Conteúdo 01</Link>
+                    <Link to="/conteudo01/123">Logo</Link>
                 </li>
                 <li> 
-                    <Link to="/conteudo02">Conteúdo 02</Link>
+                    <Link to="/conteudo02">Sobre</Link>
                 </li>                                
                 <li> 
-                    <Link to="/conteudo03">Conteúdo 03</Link>
+                    <Link to="/conteudo03">Detalhes</Link>
                 </li>
                 <li> 
-                    <Link to="/conteudo04">Conteúdo 04</Link>
+                    <Link to="/conteudo04">Dados do jogador</Link>
                 </li>                                
             </ul>
         </nav>
