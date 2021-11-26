@@ -1,5 +1,7 @@
 import React from "react"
+import './estiloConteudo01.css'
 import { useParams } from 'react-router-dom'
+import ibagem from './logo.png'
 
 const Conteudo01 = props => {
 
@@ -7,8 +9,8 @@ const Conteudo01 = props => {
 
     return (
         <div>
-            <h1>Conteúdo 01</h1>
-            <h3>Usuário: { usuario }</h3>
+            <h1>INICIAL</h1>
+            <h3> <img src={ibagem}height="500px" /> </h3>
         </div>
     )
 }
