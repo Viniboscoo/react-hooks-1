@@ -1,5 +1,5 @@
 import React from "react"
-import './estiloConteudo01.css'
+import './estiloConteudo.css'
 import { useParams } from 'react-router-dom'
 import ibagem from './logo.png'
 
